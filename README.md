@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasleguizamon123&show_icons=true&locale=en&layout=compact" alt="eliasleguizamon123" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasleguizamon123&show_icons=true&locale=en" alt="eliasleguizamon123" /></p>
 
-#TodoList Stats
+<h3 align="left">My TodoList:</h3>
 
 <!-- TODO-IST:START -->
 🏆  150 Karma Points           
