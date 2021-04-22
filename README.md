@@ -48,7 +48,7 @@
 <br>
 <br>
 <br>
-# TodoList Stats
+#TodoList Stats
 
 <!-- TODO-IST:START -->
 🏆  150 Karma Points           
