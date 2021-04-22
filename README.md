@@ -34,8 +34,8 @@
 # TodoList Stats
 
 <!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 3 tasks so far           
-⏳  Longest streak is 0 days
+🏆  150 Karma Points           
+🌸  Completed 12 tasks today           
+✅  Completed 12 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
