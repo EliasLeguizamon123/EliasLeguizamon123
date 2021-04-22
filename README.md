@@ -53,7 +53,7 @@
 
 <h3 align="left">My Github Stats 📚:</h3>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eliasleguizamon123&show_icons=true&theme=onedark" alt="eliasleguizamon123" /> <img align="center" style="padding-left: 15;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasleguizamon123&layout=compact&theme=onedark" alt="eliasleguizamon123" /></p>
+<p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=eliasleguizamon123&show_icons=true&theme=onedark" alt="eliasleguizamon123" /> <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasleguizamon123&layout=compact&theme=onedark" alt="eliasleguizamon123" /></p>
 
 <br> 
 
