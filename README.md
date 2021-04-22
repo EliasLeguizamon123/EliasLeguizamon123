@@ -55,6 +55,8 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eliasleguizamon123&show_icons=true&theme=onedark" alt="eliasleguizamon123" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasleguizamon123&layout=compact&theme=onedark" alt="eliasleguizamon123" /></p>
 
+<br> 
+
 <img src="https://raw.githubusercontent.com/EliasLeguizamon123/EliasLeguizamon123/main/Public/mySeparator.png" alt="postman" width="100%" height="40"/>
 
 <h3 align="left">My TodoList 📑:</h3>
