@@ -53,7 +53,7 @@
 
 <h3 align="left">My Github Stats 📚:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasleguizamon123&show_icons=true&theme=kacho_ga" alt="eliasleguizamon123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasleguizamon123&show_icons=true&title_color=E76F51&bg_color=DEG,264653,2A9D8F,E9C46A,F4A261,E76F51" alt="eliasleguizamon123" /></p>
 
 <img src="https://raw.githubusercontent.com/EliasLeguizamon123/EliasLeguizamon123/main/Public/mySeparator.png" alt="postman" width="100%" height="40"/>
 
