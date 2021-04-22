@@ -60,8 +60,8 @@
 <h3 align="left">My TodoList 📑:</h3>
 
 <!-- TODO-IST:START -->
-🏆  150 Karma Points           
-🌸  Completed 12 tasks today           
-✅  Completed 12 tasks so far           
+🏆  250 Karma Points           
+🌸  Completed 14 tasks today           
+✅  Completed 14 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
