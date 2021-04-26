@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/EliasLeguizamon123/EliasLeguizamon123/main/Public/mySeparator.png" alt="postman" width="100%" height="40"/>
 
-<h3 align="left">Connect with me ✉️:</h3>
+<h3 align="left">My Social Medias ✉️:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eliasleguizamon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/eliasleguizamon/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/xm0l3x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="xm0l3x" height="30" width="40" /></a>
