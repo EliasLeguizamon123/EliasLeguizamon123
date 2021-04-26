@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eliasleguizamon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/eliasleguizamon/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/xm0l3x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="xm0l3x" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/moledeastoria/?hl=es-la" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/moledeastoria/?hl=es-la" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@elias_leguizamo1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" alt="@elias_leguizamo1" height="30" width="40" /></a>
 </p>
 
