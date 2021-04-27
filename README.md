@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Platform like Stack overflow](https://github.com/EliasLeguizamon123/lucaPlatform)
 
-- 🔭 Also in [Status card project](https://github.com/EliasLeguizamon123/CredencialesCopitec)
+- 🔭 Also in [Status card project](https://github.com/EliasLeguizamon123/CredencialesCopitec), and in [Flipper Color](https://github.com/EliasLeguizamon123/colorFlipper)
 
 - 🌱 I’m currently learning **React JS, MongoDB, Python, Linux Shell**
 
