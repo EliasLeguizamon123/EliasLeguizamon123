@@ -58,12 +58,3 @@
 </p>
   
 <img src="https://raw.githubusercontent.com/EliasLeguizamon123/EliasLeguizamon123/main/Public/mySeparator.png" alt="postman" width="100%" height="40" />
-
-<h3 align="left">My TodoList 📑:</h3>
-
-<!-- TODO-IST:START -->
-🏆  696 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 27 tasks so far           
-⏳  Longest streak is 2 days
-<!-- TODO-IST:END -->
