@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **React JS**, you can see my progress [here](https://github.com/EliasLeguizamon123/bootcampReact)
 
+- 🌱 Also, im learning too **MongoDB in Atlas**, you can see my progress [here](https://github.com/EliasLeguizamon123/quotesPlatform)
+
 - 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **elias.leguizamon1997@gmail.com**
