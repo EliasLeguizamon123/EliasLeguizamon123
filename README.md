@@ -5,15 +5,11 @@
 
 
 
-- 🔭 I’m currently working on [Platform like Stack overflow](https://github.com/EliasLeguizamon123/lucaPlatform)
+- 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🔭 Also in [Status card project](https://github.com/EliasLeguizamon123/CredencialesCopitec), and in [Flipper Color](https://github.com/EliasLeguizamon123/colorFlipper)
+- 🌱 I’m currently learning **React JS** and **MongoDB Atlas**
 
-- 🌱 I’m currently learning **React JS**, you can see my progress [here](https://github.com/EliasLeguizamon123/bootcampReact)
-
-- 🌱 Also, im learning too **MongoDB in Atlas**, you can see my progress [here](https://github.com/EliasLeguizamon123/quotesPlatform)
-
-- 💬 Ask me about **NodeJS**
+- 💬 Ask me about **NodeJS, MongoDB**
 
 - 📫 How to reach me **elias.leguizamon1997@gmail.com**
 
@@ -56,5 +52,22 @@
 
 <p>&nbsp;
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=eliasleguizamon123&show_icons=true&theme=onedark" alt="eliasleguizamon123" /> 
-  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasleguizamon123&layout=compact&theme=onedark" alt="eliasleguizamon123"/>
+  
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasleguizamon123&layout=compact&theme=onedark" alt="eliasleguizamon123"/>
+  
 </p>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/EliasLeguizamon123/EliasLeguizamon123/main/Public/mySeparator.png" alt="postman" width="100%" height="40"/>
+
+<h3 align="left" name="proyects">Can you see my actual proyect's here 💻:</h3>
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=colorFlipper&theme=onedark" alt="colorFlipper">
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=quotesPlatform&theme=onedark" alt="quotesPlatform">
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=bootcampReact&theme=onedark" alt="bootcampReact">
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=CredencialesCopitec&theme=onedark" alt="CredencialesCopitec">
+
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=lucaPlatform&theme=onedark" alt="lucaPlatform">
