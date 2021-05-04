@@ -63,7 +63,10 @@
 
 <h3 align="left" name="proyects">Can you see my actual proyect's here 💻:</h3>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=colorFlipper&theme=onedark" alt="colorFlipper">
+<a src="https://github.com/EliasLeguizamon123/colorFlipper">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=colorFlipper&theme=onedark" alt="colorFlipper">
+</a>
+
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=quotesPlatform&theme=onedark" alt="quotesPlatform">
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=bootcampReact&theme=onedark" alt="bootcampReact">
