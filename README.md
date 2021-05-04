@@ -61,16 +61,5 @@
 
 <img src="https://raw.githubusercontent.com/EliasLeguizamon123/EliasLeguizamon123/main/Public/mySeparator.png" alt="postman" width="100%" height="40"/>
 
-<h3 align="left" name="proyects">Can you see my actual proyect's here 💻:</h3>
+<h3 align="left" name="proyects">Can you see my actual proyect's below 💻:</h3>
 
-<a src="https://github.com/EliasLeguizamon123/colorFlipper">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=colorFlipper&theme=onedark" alt="colorFlipper">
-</a>
-
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=quotesPlatform&theme=onedark" alt="quotesPlatform">
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=bootcampReact&theme=onedark" alt="bootcampReact">
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=CredencialesCopitec&theme=onedark" alt="CredencialesCopitec">
-
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasleguizamon123&repo=lucaPlatform&theme=onedark" alt="lucaPlatform">
