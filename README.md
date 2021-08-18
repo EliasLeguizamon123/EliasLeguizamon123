@@ -7,9 +7,9 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning **React JS** and **MongoDB Atlas**
+- 🌱 I’m currently learning **React JS** and **Firebase**
 
-- 💬 Ask me about **NodeJS, MongoDB**
+- 💬 Ask me about **NodeJS, MongoDB, Basic ReactJS and ChrakraUI**
 
 - 📫 How to reach me **elias.leguizamon1997@gmail.com**
 
@@ -43,6 +43,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-f06213?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f2d200?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="ChakraUI" src="https://img.shields.io/badge/-ChakraUI-89c3b7?style=flat-square&logo=chakraui&logoColor=white" />
   
 </p>
 
