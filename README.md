@@ -7,7 +7,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning **React JS** and **Firebase**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **NodeJS, MongoDB, Basic ReactJS and ChrakraUI**
 
