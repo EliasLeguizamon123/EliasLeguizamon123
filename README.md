@@ -7,9 +7,9 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning in [Alkemy](https://www.linkedin.com/company/alkemy2020/)
 
-- 💬 Ask me about **NodeJS, MongoDB, Basic ReactJS and ChrakraUI**
+- 💬 Ask me about **NodeJS, MongoDB, ReactJS and ChrakraUI**
 
 - 📫 How to reach me **elias.leguizamon1997@gmail.com**
 
