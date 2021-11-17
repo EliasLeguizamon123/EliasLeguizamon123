@@ -7,7 +7,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning in [Alkemy](https://www.linkedin.com/company/alkemy2020/)
+- 🌱 I’m currently learning *Serverless*
 
 - 💬 Ask me about **NodeJS, MongoDB, ReactJS and ChrakraUI**
 
