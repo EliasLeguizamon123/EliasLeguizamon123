@@ -7,7 +7,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *Fullstack*
+- 🌱 I’m currently learning *Docker, AngularJS*
 
 - 💬 Ask me about **NodeJS, MongoDB, ReactJS and ChrakraUI**
 
