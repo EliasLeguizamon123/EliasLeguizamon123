@@ -65,5 +65,5 @@
 
 <img src="https://raw.githubusercontent.com/EliasLeguizamon123/EliasLeguizamon123/main/Public/mySeparator.png" alt="postman" width="100%" height="40"/>
 
-<h3 align="left" name="proyects">Can you see my actual proyect's below 💻:</h3>
+<h3 align="left" name="proyects">Can you see my latest proyect's below 💻:</h3>
 
