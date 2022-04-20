@@ -42,6 +42,7 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-15616d?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ <img alt="Angular" src="https://img.shields.io/badge/-Angular-CB3837?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
@@ -52,6 +53,7 @@
   <img alt="ChakraUI" src="https://img.shields.io/badge/-ChakraUI-89c3b7?style=flat-square&logo=chakraui&logoColor=white" />
   <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8a5a44?style=flat-square&logo=mocha&logoColor=white" />
   <img alt="Chai" src="https://img.shields.io/badge/-Chai-a5a58d?style=flat-square&logo=chai&logoColor=white" />
+ <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-46a2f1?style=flat-square&logo=ionic&logoColor=white" />
   
 </p>
 
