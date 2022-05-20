@@ -12,7 +12,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *AngularJS, Ionic*
+- 🌱 I’m currently learning *Electron, ViteJS, Desktop Applications*
 
 - 💬 Ask me about **NodeJS, MongoDB, ReactJS and ChrakraUI**
 
