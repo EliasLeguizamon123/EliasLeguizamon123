@@ -73,7 +73,3 @@
 <img src="https://raw.githubusercontent.com/EliasLeguizamon123/EliasLeguizamon123/main/Public/mySeparator.png" alt="postman" width="100%" height="40"/>
 
 <h3 align="left" name="proyects">Can you see my latest proyect's below 💻:</h3>
-
-[comment]: <> (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 Cajero)
-
-[comment]: <> (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 Elias)
