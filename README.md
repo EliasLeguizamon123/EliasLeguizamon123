@@ -12,7 +12,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *Electron, ViteJS, Desktop Applications*
+- 🌱 I’m currently learning *React Clean Architecture*
 
 - 💬 Ask me about **NodeJS, MongoDB, ReactJS and ChrakraUI**
 
