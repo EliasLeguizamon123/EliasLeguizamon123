@@ -12,9 +12,9 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *React Clean Architecture*
+- 🌱 I’m currently learning *Clean Architecture, Typescript*
 
-- 💬 Ask me about **NodeJS, MongoDB, ReactJS and ChrakraUI**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **elias.leguizamon1997@gmail.com**
 
@@ -34,6 +34,7 @@
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f2d200?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -53,7 +54,8 @@
   <img alt="ChakraUI" src="https://img.shields.io/badge/-ChakraUI-89c3b7?style=flat-square&logo=chakraui&logoColor=white" />
   <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8a5a44?style=flat-square&logo=mocha&logoColor=white" />
   <img alt="Chai" src="https://img.shields.io/badge/-Chai-a5a58d?style=flat-square&logo=chai&logoColor=white" />
- <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-46a2f1?style=flat-square&logo=ionic&logoColor=white" />
+  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-46a2f1?style=flat-square&logo=ionic&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-3776AB?style=flat-square&logo=electron&logoColor=white" />
   
 </p>
 
