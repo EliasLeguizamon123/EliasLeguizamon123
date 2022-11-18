@@ -42,6 +42,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-15616d?style=flat-square&logo=netlify&logoColor=white" />
+ <img alt="Railway" src="https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  <img alt="Angular" src="https://img.shields.io/badge/-Angular-CB3837?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
