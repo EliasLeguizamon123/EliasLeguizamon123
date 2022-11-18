@@ -12,7 +12,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *Redux, Typescript*
+- 🌱 I’m currently learning *Redux, Electron Applications, Python oriented web3*
 
 - 💬 Ask me about **Javascript**
 
