@@ -48,6 +48,7 @@
   <img alt="Chai" src="https://img.shields.io/badge/-Chai-a5a58d?style=flat-square&logo=chai&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-46a2f1?style=flat-square&logo=ionic&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-3776AB?style=flat-square&logo=electron&logoColor=white" />
+ <img alt="Vite" src="https://img.shields.io/badge/-Vite-430098?style=flat-square&logo=vite&logoColor=white" />
   
 </p>
 
