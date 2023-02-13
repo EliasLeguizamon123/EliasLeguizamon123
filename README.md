@@ -12,7 +12,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *Python oriented web3, Deno*
+- 🌱 I’m currently learning *Python, Deno*
 
 - 💬 Ask me about **Javascript**
 
