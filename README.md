@@ -12,7 +12,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *Python, Deno*
+- 🌱 I’m currently learning *Python, Deno, Nvim with LUA*
 
 - 💬 Ask me about **Javascript**
 
