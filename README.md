@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning *Python, Deno, Nvim with LUA*
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **elias.leguizamon1997@gmail.com**
 
