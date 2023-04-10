@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning *Python, Rust, Nvim with LUA*
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **elias.leguizamon1997@gmail.com**
 
