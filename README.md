@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from Argentina :argentina:!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eliasleguizamon123&label=Profile%20views&color=374A67&style=flat" alt="eliasleguizamon123" />  
- <a href="https://eliasleguizamon-dev.netlify.app/" target="_blank">
+ <a href="https://eliasleguizamondev02.netlify.app/" target="_blank">
   <img alt="webpage" src="https://img.shields.io/badge/eliasleguizamonDev-My Webpage-374A67" />
  </a>
 </p>
