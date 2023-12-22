@@ -12,7 +12,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *Vitest, frontend Testing*
+- 🌱 I’m currently learning *NextJS*
 
 - 💬 Ask me about **Web Development**
 
