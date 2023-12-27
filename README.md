@@ -51,6 +51,7 @@
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-3776AB?style=flat-square&logo=electron&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-430098?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-5b731d?style=flat-square&logo=vitest&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   
 </p>
 
