@@ -52,6 +52,7 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-430098?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-5b731d?style=flat-square&logo=vitest&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?style=flat-square&logo=tailwindcss&logoColor=white" />
   
 </p>
 
