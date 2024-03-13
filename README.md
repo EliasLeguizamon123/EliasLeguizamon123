@@ -12,7 +12,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *Astro*
+- 🌱 I’m currently learning *Astro, Rust*
 
 - 💬 Ask me about **Web Development**
 
