@@ -62,7 +62,7 @@
 
 <p>&nbsp;
 
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasLeguizamon123&layout=compact&theme=onedark&hide=css,scss,less,html,java,lua,c,pug,php" alt="eliasleguizamon123"/>
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasLeguizamon123&layout=compact&theme=onedark&hide=css,scss,less,html,java,lua,c,pug,php&langs_count=8" alt="eliasleguizamon123"/>
   
 </p>
 
