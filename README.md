@@ -12,7 +12,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *POO with python*
+- 🌱 I’m currently learning *POO with python, Django*
 
 - 💬 Ask me about **Web Development**
 
