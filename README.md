@@ -12,7 +12,7 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *POO with python, Django, FastAPI*
+- 🌱 I’m currently learning *Rust Lang*
 
 - 💬 Ask me about **Web Development**
 
@@ -24,6 +24,8 @@
 <h3 align="left">Languages and Tools 🔣:</h3>
 
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-FFF?style=flat-square&logo=rust&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f2d200?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -38,7 +40,6 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-CB3837?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-a3a3a3?style=flat-square&logo=express&logoColor=white" />
   <img alt="Pug" src="https://img.shields.io/badge/-Pug-805137?style=flat-square&logo=pug&logoColor=white" />
