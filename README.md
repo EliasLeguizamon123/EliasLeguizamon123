@@ -12,9 +12,9 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *Rust Lang*
+- 🌱 I’m currently learning *Rust Lang, Go Lang*
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Engineer**
 
 - 📫 How to reach me **elias.leguizamon1997@gmail.com**
 
@@ -26,6 +26,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-FFF?style=flat-square&logo=rust&logoColor=black" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-3776AB?style=flat-square&logo=go&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f2d200?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
