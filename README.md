@@ -12,9 +12,9 @@
 
 - 🔭 Can you see my current's proyects [here](#proyects)
 
-- 🌱 I’m currently learning *Rust Lang, Go Lang*
+- 🌱 I’m currently learning *Cibersecurity, AWS cloud solutions*
 
-- 💬 Ask me about **Software Engineer**
+- 💬 Ask me about **Software Engineer, Devops Engineer**
 
 - 📫 How to reach me **elias.leguizamon1997@gmail.com**
 
